@@ -6,6 +6,18 @@ TagManager:
   tags:
   - BlendPlane0
   - BlendPlane1
+  - PARED
+  - BORDE1
+  - BORDE2
+  - FastPU
+  - x2PU
+  - fasterballPU
+  - slowerballPU
+  - pauseballPU
+  - biggerselfPU
+  - smallerenemyPU
+  - x2BoostPU
+  - BALL
   layers:
   - Default
   - TransparentFX
